@@ -3,11 +3,23 @@
 * {
     margin: 0px;
     padding: 0px;
-    border: 1px solid rgba(0,0,0,0.3);
 }
 
 .logo {
-    
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.navbar{
+    display: inline-block;
+    width: 100%;
+}
+
+ul {
+    display: inline;
+    float: right;
 }
 
 li {
