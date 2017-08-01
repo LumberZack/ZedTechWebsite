@@ -3,6 +3,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    color: white;
 }
 
 .header {
@@ -12,20 +13,14 @@
 .logo {
     display: inline-block;
     max-height: 100px;
-    float: left;
 }
 
 .navbar{
     display: inline-block;
-    width: 80%;
-    margin-top: 82px
 }
 
 ul {
-    width: 60%;
-    margin-left: 100px auto;
-    margin-top: auto;
-    text-align: center;
+    
 }
 
 li {
@@ -33,6 +28,7 @@ li {
     font-family: sans-serif;
     font-size: 20px;
     padding: 10px;
+    color: black;
 }
 
 .main {
